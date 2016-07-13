@@ -1,5 +1,9 @@
 # Change Log
 <pre>
+v2.0.0  Android: Recompile appcelerator.encrypteddatabase module against latest SDK [TIMOB-23588]
+
+v1.3.1  iOS: fixed SQLCipher migration [MOD-2259]
+
 v1.3.0  Android: Updated SQLCipher to version 3.3.1-2 [TIMOB-19206]
         iOS: No Changes. Bumped to v1.3.0 to match Android.
 
